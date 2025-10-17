@@ -103,7 +103,4 @@ The notebook includes:
 - **Seaborn**
 - *(Optional)* Plotly for interactive charts
 
----
-
-## 📂 Repository Structure
 
